@@ -1,2 +1,3 @@
-# hobby
-Hobby projects
+# Hobby
+
+Repository for Val's hobby projects 
